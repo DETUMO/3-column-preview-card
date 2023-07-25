@@ -23,7 +23,7 @@ main{
     width: 50vw;
     display: flex;
     grid-template-columns: 35px 35px 1fr;
-    height: 50vh;
+    height: 60vh;
 }
 /*
 .container > div {
